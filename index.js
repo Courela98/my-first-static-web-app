@@ -60,7 +60,7 @@ const html = `<!DOCTYPE html>
 <body>
   <div class="card">
     <div class="dot"></div>
-    <h1>Servidor Online</h1>
+    <h1>Servidor Online V2</h1>
     <p>Azure App Service · Node.js</p>
     <span id="clock"></span>
   </div>
